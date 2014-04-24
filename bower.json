@@ -1,0 +1,22 @@
+{
+  "name": "Blueprint-SlidePushMenus",
+  "version": "1.0",
+  "homepage": "https://github.com/codrops/Blueprint-SlidePushMenus",
+  "authors": [
+    "Codrops"
+  ],
+  "description": "Fixed menus that will slide out from the sides of the page and in case of the right and left side optionally move the body.",
+  "main": "classie.js",
+  "keywords": [
+    "slide",
+    "sidebar"
+  ],
+  "license": "http://tympanus.net/codrops/licensing/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
